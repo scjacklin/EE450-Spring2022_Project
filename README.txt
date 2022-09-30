@@ -1,7 +1,7 @@
 # EE450-Computer Networks-2022 spring project 
 ● Name: Sheng Chieh Lin
 
-● USC ID: 2314107438
+● USC ID: **********
 
 ● I have done:
 	In this network project, four servers, one main server and three backend server, are bulit to implement the Alichain system.
